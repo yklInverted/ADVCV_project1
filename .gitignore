@@ -1,0 +1,13 @@
+temp
+mmfashion
+FashionDataset
+__MACOSX
+checkpoint
+
+**/__pycache
+
+*.zip
+*.png
+*.jpg
+*.pyc
+*.npy
